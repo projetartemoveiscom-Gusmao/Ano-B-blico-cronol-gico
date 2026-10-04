@@ -1,0 +1,8 @@
+{
+  "name": "Ano Bíblico Conceitual",
+  "description": "Ano bíblico conceitual: 365 leituras, mapas, reflexões e links bíblicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
