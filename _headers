@@ -1,0 +1,11 @@
+/
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/sw.js
+  Content-Type: text/javascript; charset=utf-8
+  Cache-Control: no-cache
+  Service-Worker-Allowed: /
+/manifest.webmanifest
+  Content-Type: application/manifest+json
+  Cache-Control: no-cache
